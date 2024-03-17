@@ -1,0 +1,11 @@
+{
+    "File Version": 2,
+    "Check for updates": true,
+    "Auto resume failed downloads": true,
+    "Menu language": "System settings",
+    "Keyboard language": "System settings",
+    "Region": "All",
+    "Download to USB": false,
+    "Notification method": "LED",
+    "Seed": 1940881267
+}
